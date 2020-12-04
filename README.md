@@ -1,3 +1,7 @@
+![alt text](https://github.com/Raja-mishra1/netflix_clone/blob/main/Screenshot%20from%202020-12-04%2011-12-24.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
